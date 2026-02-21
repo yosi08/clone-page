@@ -3,21 +3,15 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --netflix-red: #e50914;
+  --netflix-black: #141414;
+  --netflix-dark: #000000;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  background: var(--netflix-black);
+  font-family: 'Netflix Sans', Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {
