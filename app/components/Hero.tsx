@@ -10,7 +10,7 @@ export default function Hero() {
           className="px-4 py-3 rounded bg-gray-800 text-white w-72"
         />
         <button className="bg-red-600 text-white px-6 py-3 rounded">
-          시작하기
+          Start
         </button>
       </div>
     </section>
