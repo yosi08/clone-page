@@ -18,3 +18,8 @@ export default function Hero() {
 }
 
 // hero section with title, description, email input and start button
+// title: 영화, 시리즈를 무제한으로
+// description: 언제든지 해지할 수 있습니다.
+// email input placeholder: 이메일 주소
+// start button text: Start
+
