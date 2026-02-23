@@ -16,3 +16,5 @@ export default function Hero() {
     </section>
   );
 }
+
+// hero section with title, description, email input and start button
