@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="bg-black text-white text-center py-40 px-4">
       <h2 className="text-4xl font-bold mb-4">영화, 시리즈를 무제한으로</h2>
-      <p className="text-lg text-gray-400 mb-8">언제든지 해지할 수 있습니다.</p>
+      <p className="text-base mb-8 text-gray-600">무엇이든 즐길 수 있는 공간</p>
       <div className="flex justify-center gap-2">
         <input
           type="email"
@@ -22,4 +22,3 @@ export default function Hero() {
 // description: 언제든지 해지할 수 있습니다.
 // email input placeholder: 이메일 주소
 // start button text: Start
-
